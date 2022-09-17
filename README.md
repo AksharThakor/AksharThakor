@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AksharThakor
-- 👀 I’m interested in UI design and interactions and intuitive software building
+- 👀 I’m interested in GUI and software building
 - 🌱 I’m currently learning C, Python, Java, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thakorakshar.git.18@gmail.com
