@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AksharThakor
-- 👀 I’m interested in GUI and software building
-- 🌱 I’m currently learning C, Python, Java, C++
+- 👀 I’m interested in UI/UX design of websites and softwares
+- As well as DSA and DBMS
+- 🌱 I’m currently learning python, C++, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thakorakshar.git.18@gmail.com
 
