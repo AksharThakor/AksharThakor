@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning python, C++, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thakorakshar.git.18@gmail.com
+                      https://www.linkedin.com/in/akshar-thakor-1528a725b
 
 <!---
 AksharThakor/AksharThakor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
